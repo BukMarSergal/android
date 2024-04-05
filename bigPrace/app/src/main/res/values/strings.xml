@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">bigPrace</string>
+    <string name="btnText1">Potvrdit Pizzu</string>
+    <string name="txt1">Vytvořte si svoji pizzu!</string>
+    <string name="txt2">pizza se vaří...</string>
+    <string name="txt3">Generate live view of your pizza:</string>
+    <string name="btnText2">Generate</string>
+    <string name="btnText3">Go back</string>
+    <string-array name="zaklad">
+        <item>rajče</item>
+        <item>rajčatový knocentrát</item>
+    </string-array>
+    <string-array name="topping1">
+        <item>šunka</item>
+        <item>slanina</item>
+        <item>salám</item>
+    </string-array>
+    <string-array name="topping2">
+        <item>sýr gouda</item>
+        <item>sýr eidam</item>
+        <item>sýr mozzarela</item>
+    </string-array>
+
+</resources>
